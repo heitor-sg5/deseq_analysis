@@ -37,7 +37,7 @@ This analysis includes:
 ```deseq_analysis/
 ├── main.R
 ├── scripts/
-│   ├── io.R
+│   ├── parser.R
 │   ├── analysis.R
 │   └── plots.R  
 ├── data/
