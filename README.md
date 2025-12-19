@@ -28,7 +28,7 @@ This analysis includes:
     - Principal component analysis (PCA)
     - MA and Volcano plot visualizations
 - Input validation for count and metadata tables
-- Reproducible environment management using `renv `
+- Reproducible environment management using `renv`
 
 ---
 
@@ -124,6 +124,6 @@ Example:
 ```bash
 sample      condition
 sample1     control
-sample2     control
+sample2     treated
 sample3     treated
 ```
