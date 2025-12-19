@@ -1,11 +1,8 @@
 library(here)
 
 source("scripts/parser.R")
-source("scripts/run_deseq2.R")
-source("scripts/summaries.R")
-source("scripts/volcano_plot.R")
-source("scripts/pca_plot.R")
-source("scripts/ma_plot.R")
+source("scripts/analysis.R")
+source("scripts/plots.R")
 
 input_file <- here("data", "example_data.xlsx")
 fig_dir <- "output/figures"
