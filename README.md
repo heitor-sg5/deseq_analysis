@@ -1,21 +1,13 @@
 # Differential Expression Analysis
 
 ## Overview
+
 This repository contains an R-based, modular workflow for performing differential gene expression analysis using the DESeq2 package. The project is reproducible and extensible, with clear separation between data input, analysis logic, and execution. It supports RNA-seq count data provided in .xlsx format and performs standard differential expression analysis along with exploratory and summary statistics. This repository serves both as a practical analysis tool and as a structured reference for RNA-seq differential expression processes in R.
 
 ---
 
-## Table of Contents:
-- [Overview](#differential-expression-analysis)
-- [Content](#content)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Input](#input)
-
----
-
 ## Content
+
 This analysis includes:
 
 - Differential expression using DESeq2
