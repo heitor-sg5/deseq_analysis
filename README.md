@@ -27,7 +27,6 @@ This analysis includes:
 ## Project Structure
 
 ```
-deseq_analysis/
 ├── main.R
 ├── scripts/
 │   ├── parser.R
